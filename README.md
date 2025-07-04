@@ -51,6 +51,10 @@ Analyze Amazon product and review data to derive pivot tables, calaculated colum
 ## Below is the screenshot of my dashboard display results 
 ![Uploading DASHBOARD SCREENSHOT.png…]()
 
+My uploaded folder of my excel wotk is attached in this analysis writeup above 
+
+Thanks DSA
+
 
 
  
