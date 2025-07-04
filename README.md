@@ -6,7 +6,42 @@ This project uses power query for my calaculate fields, pivot tables and Interac
 Analyze Amazon product and review data to derive pivot tables, calaculated columns and data visualizations.
 
 ## Datasert Description
-*Total Records*
+- **Total Records:** 1,465
+- **Columns:** 16
+- **Fields included:**
+  - Product name
+  - Category
+  - Actual price & Discounted price
+  - Discount %
+  - Rating
+  - Number of Ratings (Rating Count)
+  - Review content (aggregated in some columns)
+  - Revenue potential fields (derived)
+- **Added column:**
+  - Price Bucket
+  - Discount Level
+  - High Discount Range
+  - Total Potential Revenue
+  - Low Review
+  - Combined Value
+
+## Procedure Description 
+- Started by cleaning my data
+  - Removing all blank spaces
+  - Shortening the product category 
+  - Spacing the Price category
+  - Shortening the product name
+- Added some columns from power query by clicking on Add column tab and selecting Conditional column,Columns added through this procedure are:
+  - Price Bucket
+  - Discount Level
+  - High Discount Range
+  - Low Review
+- Added the remaining columns from power query by clicking on Add column tab and selecting Custom column,columns added through this procedure are:
+  - Total Potential Revenue
+  - Combined Score
+
+ # Below is the screenshot of my cleaned data
+ ![CLEANED DATA SCRRENSHOT](https://github.com/user-attachments/assets/41eb0672-9eb1-4a91-ae91-a8ec48b2a87b)
 
  
 
