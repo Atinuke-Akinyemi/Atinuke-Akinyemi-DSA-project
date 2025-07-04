@@ -8,7 +8,5 @@ Analyze Amazon product and review data to derive pivot tables, calaculated colum
 ## Datasert Description
 *Total Records*
 
-
--
  
 
