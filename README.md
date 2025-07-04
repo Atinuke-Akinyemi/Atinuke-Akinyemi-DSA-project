@@ -40,8 +40,18 @@ Analyze Amazon product and review data to derive pivot tables, calaculated colum
   - Total Potential Revenue
   - Combined Score
 
- # Below is the screenshot of my cleaned data
+ ## Below is the screenshot of my cleaned data
  ![CLEANED DATA SCRRENSHOT](https://github.com/user-attachments/assets/41eb0672-9eb1-4a91-ae91-a8ec48b2a87b)
+
+- Another procedure carried out is creating of pivot tables to solve the 14 questions in my DSA project
+## Below is the screenshot of my pivot tables
+![PIVOT TABLE VIEW SCREENSHOT](https://github.com/user-attachments/assets/536a64b7-37eb-48c6-bcab-9deff59d286b)
+
+- Another procedure is creating my dashboard by inserting my charts yo analyse my pivot tables results
+## Below is the screenshot of my dashboard display results 
+![Uploading DASHBOARD SCREENSHOT.png…]()
+
+
 
  
 
