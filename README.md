@@ -1,4 +1,4 @@
-# Amazon Product Review Analysis(DSA Incubator Project)
+# Amazon Product Review Analysis(DSA Incubator Project) and SQL project link below
 My step to step guide in solving an Excel-based analytical problem on Amazon product reviews, discounts and pricing.
 This project uses power query for my calaculate fields, pivot tables and Interactive dashboard to extract insights on the product performance, category trends and revenue opportunities.
 
@@ -53,6 +53,10 @@ Analyze Amazon product and review data to derive pivot tables, calaculated colum
 
 
 My uploaded folder of my excel wotk is attached in this analysis writeup above 
+
+Below is my link to the repository of my SQL Project.
+https://github.com/Atinuke-Akinyemi/DSA-SQL-PROJECT-
+
 
 Thanks DSA
 
