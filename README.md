@@ -54,7 +54,7 @@ Analyze Amazon product and review data to derive pivot tables, calaculated colum
 
 My uploaded folder of my excel wotk is attached in this analysis writeup above 
 
-Below is my link to the repository of my SQL Project.
+# BELOW IS MY SQL PROJECT REPOSITORY LINK:
 https://github.com/Atinuke-Akinyemi/DSA-SQL-PROJECT-
 
 
