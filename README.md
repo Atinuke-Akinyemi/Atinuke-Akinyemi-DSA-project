@@ -49,7 +49,8 @@ Analyze Amazon product and review data to derive pivot tables, calaculated colum
 
 - Another procedure is creating my dashboard by inserting my charts yo analyse my pivot tables results
 ## Below is the screenshot of my dashboard display results 
-![Uploading DASHBOARD SCREENSHOT.png…]()
+![DASHBOARD SCREENSHOT](https://github.com/user-attachments/assets/fd7f8680-239f-4fdf-a899-a3bfbe9cd48f)
+
 
 My uploaded folder of my excel wotk is attached in this analysis writeup above 
 
